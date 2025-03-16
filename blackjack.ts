@@ -113,19 +113,3 @@ console.log(`Croupiers's total value: ??+${croupierCards[1].value}\n`)
 console.log('Your cards:'+showDeck(playerCards))
 console.log(`Player's total value: ${totalValue(playerCards)}`)
 }
-// const grab:Function=(n:number)=>{
-// if (n!= undefined){
-//  let a = 0;
-//  while(a<n){
-//   cards.push(getRandomCard());
-//   total = total + cards[cards.length -1].value;
-//  }
-
-// }
-// else{
-//   cards.push(getRandomCard());
-//   total = total + cards[cards.length -1].value;
-// }
-  
-// console.log(`New card: ${cards[cards.length - 1].fakeValue} of ${cards[cards.length - 1].suit}`);
-// }
