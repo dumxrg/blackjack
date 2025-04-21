@@ -1,6 +1,6 @@
 # BlackJack!
 > [!NOTE]
->  Bun or Node required. This project is not finished
+>  Bun or Node required. (Bun recommended)
 
 Ever wanted to play blackjack directly into your terminal? Now you can! 
 
