@@ -14,9 +14,7 @@ Step 2: Execute the code using Bun.
 cd blackjack
 bun blackjack.ts
 ```
-Alternatively, execute the code using Node JS.
-```bash
-cd blackjack
-npm install -g ts-node typescript '@types/node'#Skip if already installed
-ts-node blackjack.ts
-```
+
+
+<img src=https://i.postimg.cc/nz5PBMz0/bj.png>
+:3 Have fun! 
